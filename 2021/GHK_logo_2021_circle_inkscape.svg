@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg16"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="GHK_logo_2021_circle_inkscape.svg">
+  <defs
+     id="defs10">
+    <rect
+       x="7.0452555"
+       y="37.281144"
+       width="179.36047"
+       height="161.74732"
+       id="rect34" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76019943"
+     inkscape:cx="98.645982"
+     inkscape:cy="313.30563"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1252"
+     inkscape:window-height="943"
+     inkscape:window-x="49"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffdc00;stroke-width:0.132291"
+       id="path29"
+       cx="66.145836"
+       cy="66.145836"
+       r="66.145836" />
+    <text
+       xml:space="preserve"
+       id="text32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.91669999999999874px;line-height:1.25;font-family:DotGothic16;-inkscape-font-specification:DotGothic16;white-space:pre;shape-inside:url(#rect34);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-7.2301701,-4.2348116)"><tspan
+         x="7.0449219"
+         y="90.462532"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DotGothic16;-inkscape-font-specification:DotGothic16;fill:#3d9970;fill-opacity:1">{</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DotGothic16;-inkscape-font-specification:DotGothic16;fill:#b10dc9;fill-opacity:1">GHK</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DotGothic16;-inkscape-font-specification:DotGothic16;fill:#3d9970;fill-opacity:1">}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:DotGothic16;-inkscape-font-specification:DotGothic16;fill:#7fdbff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.687584"
+       y="103.03686"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="39.687584"
+         y="103.03686"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DotGothic16;-inkscape-font-specification:DotGothic16;fill:#7fdbff;fill-opacity:1;stroke-width:0.264583">&lt;<tspan
+   style="fill:#be01ff;fill-opacity:1"
+   id="tspan901">Software</tspan>&gt;</tspan></text>
+  </g>
+</svg>
